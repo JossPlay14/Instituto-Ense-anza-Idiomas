@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react-swc'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:"https://JossPlay14.github.io/Instituto-Ensenianza-Idioma"
+  base:"/Instituto-Ensenianza-Idioma/"
 });
